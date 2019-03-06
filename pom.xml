@@ -43,9 +43,9 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:https://gitbox.apache.org/repos/asf/tomee-chatterbox.git</connection>
-    <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/tomee-chatterbox.git</developerConnection>
-    <url>https://gitbox.apache.org/repos/asf/tomee-chatterbox.git</url>
+    <connection>scm:git:git@github.com:tomitribe/tomee-chatterbox.git</connection>
+    <developerConnection>scm:git:git@github.com:tomitribe/tomee-chatterbox.git</developerConnection>
+    <url>git@github.com:tomitribe/tomee-chatterbox.git</url>
     <tag>HEAD</tag>
   </scm>
 
